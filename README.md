@@ -17,17 +17,22 @@ each of these subfolder contain 100 text reviews
 folder directory
 
 dataset
-  |
-   --train
+  
+    |
+     --train
+  
       |
        --pos(100 files) 
       |
        --neg(100 files)
-  |
-   --test
+  
+    |
+     --test
+  
       |
        --pos(100 files)
       |
        --neg(100 files)
+
 copy the dataset folder content to google drive
 '/content/drive/My Drive/Data/DSA2/'
