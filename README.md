@@ -1,3 +1,5 @@
+#### Sharing Part of my project work done while taking Specialist Diploma In Applied Artificial Intelligence
+
 # SentimentClassification
 Sentiment Classification Of Text Reviews
 
